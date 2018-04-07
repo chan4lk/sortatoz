@@ -1,0 +1,1 @@
+export sortatoz from './sortatoz';
