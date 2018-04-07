@@ -1,1 +1,1 @@
-export sortatoz from './sortatoz';
+export { sortatoz } from './sortatoz';

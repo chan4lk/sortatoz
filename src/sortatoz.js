@@ -1,4 +1,4 @@
-const sortatoz = property => (f1, f2) => {
+export const sortatoz = property => (f1, f2) => {
   if(property && f1[property] && f2[property]){
     const first = f1[property].toString().toUpperCase();
     const second = f2[property].toString().toUpperCase();
@@ -13,4 +13,3 @@ const sortatoz = property => (f1, f2) => {
   return 0;
 };
 
-export default sortatoz;

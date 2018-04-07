@@ -1,9 +1,9 @@
 {
   "name": "@chan4lk/sortatoz",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple Sort function to sort arrays alphabetlically with a nested property",
   "homepage": "https://chan4lk.github.io/",
-  "repository": "chan4lk/sort-a2z",
+  "repository": "chan4lk/sortatoz",
   "author": "Chandima Ranaweera <chan4lk@gmail.com> (https://chan4lk.github.io)",
   "contributors": [
 
