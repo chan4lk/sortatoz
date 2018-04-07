@@ -56,7 +56,7 @@
     "coveralls": "cat ./coverage/lcov.info | coveralls",
     "build": "node tools/build",
     "prepublish": "npm run build",
-    "publish:docs": "easystatic deploy docs --repo kriasoft/babel-starter-kit",
+    "publish:docs": "easystatic deploy docs --repo chan4lk/sortatoz",
     "start": "easystatic start docs"
   }
 }
